@@ -122,5 +122,3 @@ the code before it can be committed?
 - [ ] Will this code change impact different teams?
 - [ ] Should they have a say on the change as
 well?
-
-Find more about code reviews at www.awesomecodereviews.com
